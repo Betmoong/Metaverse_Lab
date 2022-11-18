@@ -10,6 +10,8 @@
 사용 기술 : 아두이노, 유니티, 모터, 근전도 센서, 3Dprint
 영상 주소 : https://youtu.be/H0LzQGk7tHw
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/H0LzQGk7tHw/0.jpg)](https://www.youtube.com/watch?v=H0LzQGk7tHw)
+ 
 개발 목표 :
 메타버스에서 햅틱의 필요성을 깨닫게 되어, 햅틱 중에서도 글러브를 통한 햅틱피드백을 구현하고자 한다
 햅틱 글러브를 통해 가상의 물체를 만지고 그 물체와 상호작용하면서 사용자에게 더 나은 몰입감을 제공하고자 한다. 
