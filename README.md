@@ -10,6 +10,12 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/H0LzQGk7tHw/0.jpg)](https://www.youtube.com/watch?v=H0LzQGk7tHw)
  
+가상 물체 집기 구현 영상
+https://user-images.githubusercontent.com/63523334/202908902-5a766467-4ca2-4730-b6bf-6c686df80c04.mp4
+
+
+
+
 # 개발 목표 
 메타버스에서 햅틱의 필요성을 깨닫게 되어, 햅틱 중에서도 글러브를 통한 햅틱피드백을 구현하고자 한다
 햅틱 글러브를 통해 가상의 물체를 만지고 그 물체와 상호작용하면서 사용자에게 더 나은 몰입감을 제공하고자 한다. 
