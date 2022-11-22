@@ -43,7 +43,7 @@
 
 
 ## 세션: 피지컬 컴퓨팅
-## &nbsp; 참가 영상
+#### &nbsp; 참가 영상
 https://user-images.githubusercontent.com/100567791/203295137-23f455f8-f56b-4aba-8dfe-5e8a66c8f506.mp4
 
 
