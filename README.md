@@ -31,6 +31,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 모터, 근전도센서, 3D print
 
 <br/>
+
 ## 💁‍♂️ &nbsp; 팀원 구성
 - 팀장: 김승채 - 유니티  Hand Tracking 제어
 - 팀원1: 고준성 - 유니티 & Haptic Glove 간의 Bluetooth 통신
