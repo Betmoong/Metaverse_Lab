@@ -70,6 +70,6 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 - 유니티에서는 이 근전도 데이터를 토대로 그래프를 보여주며 현재 근전도 값, 평균값, 공을 몇 번 쥐었는지, 물건을 몇 번 옮겼는지, 각 Task당 평균과 최대값을 알려주는 UI가 있다.
 
 
-- 시스템 설계도
+## 시스템 설계도
 ![그림1](https://user-images.githubusercontent.com/100567791/203299160-8a1f30f4-2928-4c80-96c1-8dc98018c2a1.png)
 
