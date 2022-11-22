@@ -3,8 +3,7 @@
 <img 
 src="https://capsule-render.vercel.app/api?
 type=wave
-&color=auto	
-&reversal=true
+&color=auto
 &height=300
 &section=header
 &text=capsule%20render	
