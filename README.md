@@ -193,3 +193,23 @@ EMG 데이터 값을 시리얼 플로터로 확인한 사진이며 실제 물건
 <img width="453" alt="data2" src="https://user-images.githubusercontent.com/100567791/203308325-4ac14d26-b1fa-4f3a-9673-6c645f6a5795.png">
 
 위와 같은 방법으로 M명의 사람과 테스트를 진행할 것이며, 각각의 참가자와 N번 시행하여 진행할 계획이다. (M, N은 미확정)
+
+
+## 장갑 부속 부품 3D 프린팅
+- 2022.10.28
+
+<img width="465" alt="3D_1" src="https://user-images.githubusercontent.com/100567791/203309344-8b92c0e9-1f5b-4272-b035-eb6442effb6f.png">
+
+<img width="451" alt="3D_2" src="https://user-images.githubusercontent.com/100567791/203309357-5b081165-be76-4828-a807-2007cfc70a68.png">
+
+- 2022.11.04 - 3D 프린팅 완료
+
+<img width="438" alt="3D_3" src="https://user-images.githubusercontent.com/100567791/203309432-ba85610e-1d23-480d-a87c-963936d6a024.png">
+
+
+각 부속품, 가변저항과 글러브 조립 완료
+<img width="424" alt="3D_4" src="https://user-images.githubusercontent.com/100567791/203309443-51a6f603-401f-45cb-8faa-3468443f53a4.png">
+
+
+
+
