@@ -73,3 +73,7 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 ## 시스템 설계도
 ![그림1](https://user-images.githubusercontent.com/100567791/203299160-8a1f30f4-2928-4c80-96c1-8dc98018c2a1.png)
 
+## Object Modeling – PC Application
+![그림2](https://user-images.githubusercontent.com/100567791/203299509-f07af04f-d569-47f4-ac6b-60f1d1825ba6.png)
+
+
