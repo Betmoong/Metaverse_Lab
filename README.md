@@ -123,11 +123,14 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 
 
 
+![Bluetooth3](https://user-images.githubusercontent.com/100567791/203304910-9a4caca5-9b7d-49cd-8025-45ca13969d5b.png)
 
 
+![Bluetooth4](https://user-images.githubusercontent.com/100567791/203304920-0e3f94bf-6f0a-4323-8315-2ceb081c74a2.png)
 
+Parsing에 성공하여 string 형태로 받은 데이터를 int형 데이터로 아두이노에서 분리시켰다.
 
-
+3개의 int형으로 분리한 데이터들을 각각 해당하는 모터로 값을 전송할 예정이다.
 
 
 
