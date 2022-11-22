@@ -24,8 +24,7 @@
 - 언어: C, C#
 - #A8B9CC
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=C&logoColor=A8B9CC"/>
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
 - 기술: Arduino, Unity, Motor, 근전도 센서, 3D print
 
