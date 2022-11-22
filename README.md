@@ -21,7 +21,9 @@
 <br/>
 
 ## 📚 &nbsp; Skills
-- 언어: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+- 언어: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
+
 
 - 기술: Arduino, Unity, Motor, 근전도 센서, 3D print
 
