@@ -103,10 +103,11 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 > 3.	Fs – Force를 만들기 위해 필요한 실의 길이 변화량
 
 > 방법2) 배열을 이용하여 한꺼번에 데이터를 보내는 방법
-> [float1, float2, float3] 과 같이 배열을 만들어 각각 손가락에 전달되어야 하는 Fs(Force를 만들기 위해 필요한 실의 길이 변화량)를 한꺼번에 전달하는 방법(전달될 힘이 없다면 0값 입력) - Char의 형태로 데이터를 Unity에서 보낸 후 아두이노IDE에서 parsing을 통해 float1, float2, float3를 각각 서보 모터로 전송할 예정이다. 방법 2를 통해 유니티에서 아두이노로 데이터를 보내기로 결정하여 유니티에서 특정 string을 보냈을 때 컴퓨터의 Bluetooth Serial Monitor에서 해당 string을 받을 수 있는지 테스트할 수 있는 UI를 유니티 내에서 만들었다. 또한 반대 방향으로도 통신이 가능하도록 Bluetooth Serial Monitor에서 보낸 string 데이터가 Unity 내 UI에 출력되도록 코드를 작성하였다.
+> [float1, float2, float3] 과 같이 배열을 만들어 각각 손가락에 전달되어야 하는 Fs(Force를 만들기 위해 필요한 실의 길이 변화량)를 한꺼번에 전달하는 방법(전달될 힘이 없다면 0값 입력) - Char의 형태로 데이터를 Unity에서 보낸 후 아두이노IDE에서 parsing을 통해 float1, float2, float3를 각각 서보 모터로 전송. 
+> 방법 2를 통해 유니티에서 아두이노로 데이터를 보내기로 결정하여 유니티에서 특정 string을 보냈을 때 컴퓨터의 Bluetooth Serial Monitor에서 해당 string을 받을 수 있는지 테스트할 수 있는 UI를 유니티 내에서 만들었다. 
+> 또한, 반대 방향으로도 통신이 가능하도록 Bluetooth Serial Monitor에서 보낸 string 데이터가 Unity 내 UI에 출력되도록 코드를 작성하였다.
   
-보내고자 하는 데이터는 다음과 같으며 방법2의 통신을 사용했다.
-
+보내고자 하는 데이터는 위와 같으며 방법2의 통신을 사용했다.
 
 Char 형태로 Unity와 Arduino 간 양방향 블루투스 통신이 성공한 모습이다.
 아두이노의 시리얼 통신은 Asynchronous 시리얼 통신 이므로 블루투스 칩 HC-06의 synchronous 전송 속도는 최대 2.1Mbps이다. 또 본 프로젝트에서는 Baud rate을 9600으로 설정하므로 ASCII Code를 기준으로 1초에 9600개의 symbol을 보낼 수 있다. 통신에서 ASCII Code는 1 symbol이 8bit이므로 9600 Baud rate은 초당 9600*8=76800bit를 송, 수신하는 것이므로 2.1Mbps 속도를 가진 HC-06이 안정적으로 데이터를 전달할 수 있다. 또한 이전 데이터와 다음에 송, 수신할 데이터가 관계가 없다는 점에서 데이터를 float 형태로 3번 보내는 것보다 string 형태로 한꺼번에 보내는 것이 더 효율적이라고 판단하였다.
