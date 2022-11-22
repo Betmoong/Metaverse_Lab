@@ -1,4 +1,4 @@
-## Transparent
+## New Meta
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=New%20Meta&height=150&fontSize=60&desc=Gloved%20Controller%20for%20Metaverse%20Interface%20&descAlignY=75&descAlign=60)
 
 #  Metaverse_Lab
