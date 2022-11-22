@@ -1,7 +1,6 @@
 #  Metaverse_Lab
 메타버스 인터페이스를 위한 장갑형 콘트롤러 개발<br/><br/>
 <img width="410" alt="image" src="https://user-images.githubusercontent.com/100567791/203264292-8838bdcd-f5d2-4eac-a720-78dcff745493.png">
-<img width="157" alt="image" src="https://user-images.githubusercontent.com/100567791/203264906-387d2849-1588-4ca0-87fc-3a5b96c60d4f.png">
 
 <br/>
 
