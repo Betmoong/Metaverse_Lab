@@ -20,6 +20,9 @@
 
 ## 💻 사용 언어 & 기술
 - 언어: C, C#
+- #A8B9CC
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 - 기술: Arduino, Unity, Motor, 근전도 센서, 3D print
 
 ## 💁‍♂️ &nbsp; 팀원 구성
