@@ -86,8 +86,8 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 
 
 ## 각도에 따른 실의 길이 추적 방법(Unity)
-![그림1](https://user-images.githubusercontent.com/100567791/203300390-830f6ab8-7504-4a9d-bdc3-ea72df6a0ab1.png)
+![그림5](https://user-images.githubusercontent.com/100567791/203300559-7c840ba6-7d9f-4381-8d6f-6cdbbc82514c.png)
 
 
 ## 가변저항에 따른 실의 길이 추적 방법(Arduino)
-<img width="360" alt="image" src="https://user-images.githubusercontent.com/100567791/203300211-f83eee41-07bd-47f4-afdc-98111fef5dbc.png">
+<img width="360" alt="그림6" src="https://user-images.githubusercontent.com/100567791/203300618-eff40838-0f27-465d-b281-42a3ab8320d9.png">
