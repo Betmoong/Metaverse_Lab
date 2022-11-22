@@ -99,19 +99,10 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 (데이터의 통신 방향: 유니티 -> 컴퓨터 -> 아두이노 보드) 현재 시리얼 모니터와 블루투스 시리얼 터미널을 이용하여 아두이노 보드와 컴퓨터 간의 통신 완료.
  
 
-- 방법1) 3개의 데이터(변수)를 순차적으로 보내는 방법
-
-<br/>
-
-&nbsp;&nbsp;&nbsp;&nbsp; 1.	Index – 3개의 손가락 중 어느 손가락에 해당하는 데이터인지
-
-<br/>
-
-&nbsp;&nbsp;&nbsp;&nbsp; 2.	IsTouched -  힘이 전달되었는지 유무(True or False)
-
-<br/>
-
-&nbsp;&nbsp;&nbsp;&nbsp; 3.	Fs – Force를 만들기 위해 필요한 실의 길이 변화량
+방법1) 3개의 데이터(변수)를 순차적으로 보내는 방법
+1. Index – 3개의 손가락 중 어느 손가락에 해당하는 데이터인지
+2.	IsTouched -  힘이 전달되었는지 유무(True or False)
+3.	Fs – Force를 만들기 위해 필요한 실의 길이 변화량
 
 - 방법2) 배열을 이용하여 한꺼번에 데이터를 보내는 방법
 [float1, float2, float3] 과 같이 배열을 만들어 각각 손가락에 전달되어야 하는 Fs(Force를 만들기 위해 필요한 실의 길이 변화량)를 한꺼번에 전달하는 방법(전달될 힘이 없다면 0값 입력) - Char의 형태로 데이터를 Unity에서 보낸 후 아두이노IDE에서 parsing을 통해 float1, float2, float3를 각각 서보 모터로 전송할 예정이다. 방법 2를 통해 유니티에서 아두이노로 데이터를 보내기로 결정하여 유니티에서 특정 string을 보냈을 때 컴퓨터의 Bluetooth Serial Monitor에서 해당 string을 받을 수 있는지 테스트할 수 있는 UI를 유니티 내에서 만들었다. 또한 반대 방향으로도 통신이 가능하도록 Bluetooth Serial Monitor에서 보낸 string 데이터가 Unity 내 UI에 출력되도록 코드를 작성하였다.
