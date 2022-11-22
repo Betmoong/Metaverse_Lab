@@ -30,7 +30,7 @@
 - ### etc <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 모터, 근전도센서, 3D print
 
-
+<br/>
 ## 💁‍♂️ &nbsp; 팀원 구성
 - 팀장: 김승채 - 유니티  Hand Tracking 제어
 - 팀원1: 고준성 - 유니티 & Haptic Glove 간의 Bluetooth 통신
@@ -41,18 +41,7 @@
 <br/><br/><br/><br/>
 
 
-
-
-
-
-
-
-> 세션 : 피지컬 컴퓨팅  
-프로젝트 명 : 메타버스 인터페이스를 위한 장갑형 콘트롤러 개발  
-팀 명 : New Meta  
-개발 기간 : 10.1~11.23  
-사용 언어 : C, C#   
-사용 기술 : 아두이노, 유니티, 모터, 근전도 센서, 3Dprint  
+## 세션: 피지컬 컴퓨팅
 영상 주소 : https://youtu.be/H0LzQGk7tHw  
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/H0LzQGk7tHw/0.jpg)](https://www.youtube.com/watch?v=H0LzQGk7tHw)
