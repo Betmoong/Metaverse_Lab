@@ -20,7 +20,7 @@
 - 22.10.01 - 22.11.23
 <br/>
 
-## 💻 사용 언어 & 기술
+## 📚 Languages & Skills
 - 언어: <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style-flat">
 
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
