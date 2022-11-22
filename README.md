@@ -179,3 +179,13 @@ Parsing에 성공하여 string 형태로 받은 데이터를 int형 데이터로
 이는 블럭을 집고 옮길 때도 마찬가지였다.
 
 EMG 데이터 값을 시리얼 플로터로 확인한 사진이며 실제 물건을 집을 때 높은 데이터가 출력되었다.
+
+### 근전도 센서 데이터 분석 방법 <br/>
+
+<img width="452" alt="data1" src="https://user-images.githubusercontent.com/100567791/203308313-78bce8bc-69f3-458f-adf0-290c51e60b98.png">
+
+4가지 데이터를 분석하고자 계획하였다. 유니티 UI로 Task버튼과 Contents버튼이 있고 그랩과 픽업의 카운팅 표시가 있다. Task 버튼을 누르면 stop을 누르기 전까지의 시간동안 근전도 센서의 평균값을 계산하여 표시해준다. Contents버튼은 컨텐츠 하나를 전부 끝내는 동안 평균적인 근전도 센서 값을 계산한다. Grab은 공을 세게 쥐는 모션을 카운팅하고, Pick up은 물건을 집어 옮기는 모션을 카운팅한다.
+
+
+<img width="453" alt="data2" src="https://user-images.githubusercontent.com/100567791/203308325-4ac14d26-b1fa-4f3a-9673-6c645f6a5795.png">
+
