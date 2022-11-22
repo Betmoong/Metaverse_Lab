@@ -113,7 +113,7 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 ![bluetooth2](https://user-images.githubusercontent.com/100567791/203304146-a092fa6b-3387-4720-8772-629bfa0a60d3.png)
 
 
-Char 형태로 Unity와 Arduino 간 양방향 블루투스 통신이 성공한 모습이다.
+<Char 형태로 Unity와 Arduino 간 양방향 블루투스 통신이 성공한 모습>
 
 아두이노의 시리얼 통신은 Asynchronous 시리얼 통신 이므로 블루투스 칩 HC-06의 synchronous 전송 속도는 최대 2.1Mbps이다.
 
