@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=New%20Meta&desc="메타버스 인터페이스를 위한 장갑형 콘트롤러 개발"&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=New%20Meta&desc=heelo&fontSize=90" />
 
 
 
