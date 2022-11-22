@@ -46,9 +46,7 @@ https://user-images.githubusercontent.com/63523334/202908902-5a766467-4ca2-4730-
 현재 근전도 값, 평균값, 공을 몇 번 쥐었는지, 물건을 몇 번 옮겼는지, 각 Task당 평균과 최대값을 알려주는 UI가 있다.
 
 
-
-
-
+시연 
 https://user-images.githubusercontent.com/100567791/203256168-fa0b741b-143e-4f29-b7d6-42f38db80104.mp4
 
 
