@@ -219,6 +219,7 @@ EMG 데이터 값을 시리얼 플로터로 확인한 사진이며 실제 물건
 
 #### 근전도 데이터 시각화
 ![visual](https://user-images.githubusercontent.com/100567791/203309770-d55a6a19-3637-4220-97a1-049e64e44045.png)
+
 근전도 데이터를 나타내는 그래프와, 주파수 domain으로 변환하여 Spectrum의 변화를 나타내는 Spectrogram을 기능 구현하였다.
 
 Spectrogram은 샘플링주파수를 10Hz, 데이터 크기를 16개로 설정하여 FFT로 얻은 값을 표시하였다.
