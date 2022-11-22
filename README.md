@@ -43,6 +43,17 @@
 
 
 ## 세션: 피지컬 컴퓨팅
+
+
+
+https://user-images.githubusercontent.com/100567791/203295137-23f455f8-f56b-4aba-8dfe-5e8a66c8f506.mp4
+
+
+
+
+
+
+
 영상 주소 : https://youtu.be/H0LzQGk7tHw  
 
 
