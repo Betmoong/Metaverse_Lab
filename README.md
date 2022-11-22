@@ -148,3 +148,12 @@ Parsing에 성공하여 string 형태로 받은 데이터를 int형 데이터로
 - 정점의 탄성력은 시간이 흐를수록 감쇠(damping)한다.
 
 
+## 근전도 센서 EMG
+1. 아두이노 소스코드
+
+<img width="480" alt="code1" src="https://user-images.githubusercontent.com/100567791/203306876-41170a25-ecea-4556-bd8d-c30b18dbd59a.png">
+
+
+<img width="487" alt="code2" src="https://user-images.githubusercontent.com/100567791/203306884-394ae26c-0843-4ef6-ae93-3aa352171e92.png">
+
+
