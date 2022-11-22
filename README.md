@@ -69,6 +69,7 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 - 근전도 컨텐츠를 위해 근전도 센서를 착용하면 아두이노에서 근전도 데이터를 블루투스 통신으로 유니티에 전송한다.
 - 유니티에서는 이 근전도 데이터를 토대로 그래프를 보여주며 현재 근전도 값, 평균값, 공을 몇 번 쥐었는지, 물건을 몇 번 옮겼는지, 각 Task당 평균과 최대값을 알려주는 UI가 있다.
 
+<br/>
 
 ## 시스템 설계도
 ![그림1](https://user-images.githubusercontent.com/100567791/203299160-8a1f30f4-2928-4c80-96c1-8dc98018c2a1.png)
@@ -84,3 +85,4 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 ![그림4](https://user-images.githubusercontent.com/100567791/203299820-65e19ece-4040-461f-9db8-2479849feebd.png)
 
 
+각도에 따른 실의 길이 추적 방법(유니티) ![image](https://user-images.githubusercontent.com/100567791/203300065-87072c6f-f8b9-4143-8085-f588eada74f8.png)
