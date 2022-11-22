@@ -208,6 +208,7 @@ EMG 데이터 값을 시리얼 플로터로 확인한 사진이며 실제 물건
 
 
 각 부속품, 가변저항과 글러브 조립 완료
+
 <img width="424" alt="3D_4" src="https://user-images.githubusercontent.com/100567791/203309443-51a6f603-401f-45cb-8faa-3468443f53a4.png">
 
 
