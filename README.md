@@ -46,6 +46,10 @@
 #### &nbsp; 참가 영상
 https://user-images.githubusercontent.com/100567791/203295137-23f455f8-f56b-4aba-8dfe-5e8a66c8f506.mp4
 
+#### &nbsp; 가상 물체 잡기 구현 영상
+https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a-a80f-915860777479.mp4
+
+
 
 
 # 개발 내용 
@@ -65,11 +69,5 @@ https://user-images.githubusercontent.com/100567791/203295137-23f455f8-f56b-4aba
 근전도 컨텐츠를 위해 근전도 센서를 착용하면 아두이노에서 근전도 데이터를 블루투스 통신으로 유니티에 전송한다.
 유니티에서는 이 근전도 데이터를 토대로 그래프를 보여주고, 
 현재 근전도 값, 평균값, 공을 몇 번 쥐었는지, 물건을 몇 번 옮겼는지, 각 Task당 평균과 최대값을 알려주는 UI가 있다.
-
-
-
-# 가상 물체 잡기 구현영상
-> https://user-images.githubusercontent.com/100567791/203256496-d3a60ff7-e7bd-46d3-a9ac-2e93bc8988f9.mp4
-
 
 
