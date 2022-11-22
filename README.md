@@ -1,5 +1,5 @@
 #  Metaverse_Lab
-메타버스 인터페이스를 위한 장갑형 콘트롤러 개발
+메타버스 인터페이스를 위한 장갑형 콘트롤러 개발<br/><br/>
 <img width="410" alt="image" src="https://user-images.githubusercontent.com/100567791/203264292-8838bdcd-f5d2-4eac-a720-78dcff745493.png">
 
 <br/><br/>
