@@ -121,8 +121,6 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 - 또한, 이전 데이터와 다음에 송, 수신할 데이터가 관계가 없다는 점에서 데이터를 float 형태로 3번 보내는 것보다 char 형태로 한꺼번에 보내는 것이 더 효율적이라고 판단하였다.
 
 
-
-
 ![Bluetooth3](https://user-images.githubusercontent.com/100567791/203304910-9a4caca5-9b7d-49cd-8025-45ca13969d5b.png)
 
 
@@ -130,7 +128,13 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
 
 Parsing에 성공하여 string 형태로 받은 데이터를 int형 데이터로 아두이노에서 분리시켰다.
 
-3개의 int형으로 분리한 데이터들을 각각 해당하는 모터로 값을 전송할 예정이다.
+3개의 int형으로 분리한 데이터들을 각각 해당하는 모터로 값을 전송.
+
+<img width="440" alt="bluetooth6" src="https://user-images.githubusercontent.com/100567791/203305178-73123746-d16f-4e1b-864a-d21d4692e236.png">
+
+
+## Object Deform
+![image](https://user-images.githubusercontent.com/100567791/203305338-fa74d847-464b-4d7c-bc02-c51918a5e25a.png)
 
 
 
