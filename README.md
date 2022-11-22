@@ -18,6 +18,10 @@
 - 22.10.01 - 22.11.23
 <br/>
 
+## 💻 사용 언어 & 기술
+- 언어: C, C#
+- 기술: Arduino, Unity, Motor, 근전도 센서, 3D print
+
 ## 💁‍♂️ &nbsp; 팀원 구성
 - 팀장: 김승채 - 유니티  Hand Tracking 제어
 - 팀원1: 고준성 - 유니티 & Haptic Glove 간의 Bluetooth 통신
