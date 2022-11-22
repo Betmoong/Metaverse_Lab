@@ -109,6 +109,11 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
   
 보내고자 하는 데이터는 위와 같으며 방법2의 통신을 사용했다.
 
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/100567791/203303928-b00f4172-4402-4d2c-a89d-e217139ecacb.png">
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/100567791/203303944-b27fce8e-5b87-4624-8d64-0841a3054292.png">
+
+
+
 Char 형태로 Unity와 Arduino 간 양방향 블루투스 통신이 성공한 모습이다.
 아두이노의 시리얼 통신은 Asynchronous 시리얼 통신 이므로 블루투스 칩 HC-06의 synchronous 전송 속도는 최대 2.1Mbps이다. 또 본 프로젝트에서는 Baud rate을 9600으로 설정하므로 ASCII Code를 기준으로 1초에 9600개의 symbol을 보낼 수 있다. 통신에서 ASCII Code는 1 symbol이 8bit이므로 9600 Baud rate은 초당 9600*8=76800bit를 송, 수신하는 것이므로 2.1Mbps 속도를 가진 HC-06이 안정적으로 데이터를 전달할 수 있다. 또한 이전 데이터와 다음에 송, 수신할 데이터가 관계가 없다는 점에서 데이터를 float 형태로 3번 보내는 것보다 string 형태로 한꺼번에 보내는 것이 더 효율적이라고 판단하였다.
  HC-06의 최대 전송 거리는 10m로 최대 전송 거리가 짧은 관계로 유의미한 거리에 따른 최대 데이터 전송량의 변화를 찾기 어려웠다. 하지만 블루투스 통신 간격에 따른 아두이노 보드의 소모전력 분석 에 대한 자료는 찾았다. 
