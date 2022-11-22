@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=New%20Meta&fontSize=90" />
+
+
 
 #  Metaverse_Lab
 메타버스 인터페이스를 위한 장갑형 콘트롤러 개발<br/><br/>
