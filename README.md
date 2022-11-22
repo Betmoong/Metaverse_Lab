@@ -100,6 +100,9 @@ https://user-images.githubusercontent.com/100567791/203296474-ae712b52-698c-4e3a
  
 
 - 방법1) 3개의 데이터(변수)를 순차적으로 보내는 방법
+
+<br/>
+
 &nbsp;&nbsp;&nbsp;&nbsp; 1.	Index – 3개의 손가락 중 어느 손가락에 해당하는 데이터인지
 &nbsp;&nbsp;&nbsp;&nbsp; 2.	IsTouched -  힘이 전달되었는지 유무(True or False)
 &nbsp;&nbsp;&nbsp;&nbsp; 3.	Fs – Force를 만들기 위해 필요한 실의 길이 변화량
