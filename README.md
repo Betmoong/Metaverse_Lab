@@ -3,6 +3,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
+
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
 
 #  Metaverse_Lab
 메타버스 인터페이스를 위한 장갑형 콘트롤러 개발<br/><br/>
