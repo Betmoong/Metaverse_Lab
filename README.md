@@ -30,6 +30,17 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+
+
+
+
+
+
+
+
+
 ## 💁‍♂️ &nbsp; 팀원 구성
 - 팀장: 김승채 - 유니티  Hand Tracking 제어
 - 팀원1: 고준성 - 유니티 & Haptic Glove 간의 Bluetooth 통신
