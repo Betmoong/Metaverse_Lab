@@ -149,11 +149,24 @@ Parsing에 성공하여 string 형태로 받은 데이터를 int형 데이터로
 
 
 ## 근전도 센서 EMG
-1. 아두이노 소스코드
+- ### 1. 아두이노 소스코드 <br/>
 
 <img width="480" alt="code1" src="https://user-images.githubusercontent.com/100567791/203306876-41170a25-ecea-4556-bd8d-c30b18dbd59a.png">
 
 
 <img width="487" alt="code2" src="https://user-images.githubusercontent.com/100567791/203306884-394ae26c-0843-4ef6-ae93-3aa352171e92.png">
 
+- ### 2. 테스트 사진 <br/>
+두 가지 상황으로 테스트를 실시하였다.
+첫 번째는 공을 쥐는 상황이며, 두 번째는 물건을 집고 옮기는 상황이다. 첫 번째 상황에서 EMG센서는 팔뚝에 위치시켰고, 두 번째 상황에서는 손등에 위치시켰다.
 
+상황1)
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/100567791/203307187-d89bd544-b0d0-4e9d-8673-4f02a973ad3d.png">
+허공을 쥘 때와 실제 공을 쥘 때의 EMG 데이터 값을 시리얼 모니터로 출력해보았다. 
+
+
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/100567791/203307205-31f0b50a-eebc-4a35-8587-6a022ec8bc71.png">
+실제 공을 쥘 때 더 높은 데이터 값들이 다량 출력되는 것을 확인하였다.
+
+<img width="727" alt="image" src="https://user-images.githubusercontent.com/100567791/203307290-95b4a620-8815-4b94-b019-3d237e2c9d6a.png">
+이는 블럭을 집고 옮길 때도 마찬가지였다. EMG 데이터 값을 시리얼 플로터로 확인한 사진이다. 실제 물건을 집을 때 높은 데이터가 출력되었다.
