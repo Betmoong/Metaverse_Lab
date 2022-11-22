@@ -177,4 +177,5 @@ Parsing에 성공하여 string 형태로 받은 데이터를 int형 데이터로
 
 <img width="727" alt="image" src="https://user-images.githubusercontent.com/100567791/203307290-95b4a620-8815-4b94-b019-3d237e2c9d6a.png">
 이는 블럭을 집고 옮길 때도 마찬가지였다.
+
 EMG 데이터 값을 시리얼 플로터로 확인한 사진이며 실제 물건을 집을 때 높은 데이터가 출력되었다.
