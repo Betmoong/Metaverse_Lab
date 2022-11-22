@@ -161,6 +161,7 @@ Parsing에 성공하여 string 형태로 받은 데이터를 int형 데이터로
 첫 번째는 공을 쥐는 상황이며, 두 번째는 물건을 집고 옮기는 상황이다. 첫 번째 상황에서 EMG센서는 팔뚝에 위치시켰고, 두 번째 상황에서는 손등에 위치시켰다.
 
 상황1)
+
 <img width="492" alt="image" src="https://user-images.githubusercontent.com/100567791/203307187-d89bd544-b0d0-4e9d-8673-4f02a973ad3d.png">
 
 허공을 쥘 때와 실제 공을 쥘 때의 EMG 데이터 값을 시리얼 모니터로 출력해보았다. 
