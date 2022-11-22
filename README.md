@@ -202,6 +202,8 @@ EMG 데이터 값을 시리얼 플로터로 확인한 사진이며 실제 물건
 
 <img width="451" alt="3D_2" src="https://user-images.githubusercontent.com/100567791/203309357-5b081165-be76-4828-a807-2007cfc70a68.png">
 
+<br/>
+
 - 2022.11.04 - 3D 프린팅 완료
 
 <img width="438" alt="3D_3" src="https://user-images.githubusercontent.com/100567791/203309432-ba85610e-1d23-480d-a87c-963936d6a024.png">
