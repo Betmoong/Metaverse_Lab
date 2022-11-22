@@ -44,25 +44,8 @@
 
 ## 세션: 피지컬 컴퓨팅
 
-
-
 https://user-images.githubusercontent.com/100567791/203295137-23f455f8-f56b-4aba-8dfe-5e8a66c8f506.mp4
 
-
-
-
-
-
-
-영상 주소 : https://youtu.be/H0LzQGk7tHw  
-
-
-
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/H0LzQGk7tHw/0.jpg)](https://www.youtube.com/watch?v=H0LzQGk7tHw)
- 
-가상 물체 집기 구현 영상
-https://user-images.githubusercontent.com/63523334/202908902-5a766467-4ca2-4730-b6bf-6c686df80c04.mp4
 
 
 # 개발 내용 
