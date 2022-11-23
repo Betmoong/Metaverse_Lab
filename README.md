@@ -36,6 +36,11 @@
 
 
 ## 🚩 &nbsp; 세션: 피지컬 컴퓨팅
+#### &nbsp; 최종 시연 영상 
+https://user-images.githubusercontent.com/63523334/203447584-78a445cd-c228-4a6f-bef7-df0c70356acc.mp4
+
+<br/>
+
 #### &nbsp; 참가 영상 
 https://user-images.githubusercontent.com/100567791/203295137-23f455f8-f56b-4aba-8dfe-5e8a66c8f506.mp4
 
