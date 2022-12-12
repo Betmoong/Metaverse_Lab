@@ -232,50 +232,46 @@ Spectrogram은 샘플링주파수를 10Hz, 데이터 크기를 16개로 설정�
 <br/>
 
 ## 📖 &nbsp; 참고문헌
-자유도 자동손목관절을 가진 근전 전동의수 개발_Development of the Myoelectric Hand with a 2 DOF Auto Wrist Module
+ Chun, H.-Y., Kim, J.-O., & Park, K.-H. (2010, October 1). Correlation of Human Carpal Motion and Electromyogram. Transactions of the Korean Society of Mechanical Engineers A. The Korean Society of Mechanical Engineers. https://doi.org/10.3795/ksme-a.2010.34.10.1393 
 
-Analog_EMG_Sensor_by_OYMotion_SKU_SEN0240-DFRobot
+Geršak, Gregor, Huimin Lu, and Jože Guna. (2018). Effect of VR Technology Matureness on VR Sickness. Multimedia Tools and Applications 79.21-22 (2018): 14491-4507. Web.  
 
-Design and Optimization OF A FIVE-FINGER HAPTIC GLOVE MECHANISM
+Guruswamy, V. L., Jochen Lang, and Won-Sook Lee. (2011). IIR Filter Models of Haptic Vibration Textures., IEEE Transactions on Instrumentation and Measurement 60.1 (2011): 93- 103. Web.  
 
-Development of haptic gloves with vibration feedback as a tool for manipulation in virtual reality based on bend sensors and absolute orientation sensors
+Hae-Chan Na, Yu-Jin Lee, Su Young Kim, Yoon Sang Kim. (2022). A Study on Metaverse Education Platform: cases analysis and suggestion. Journal of Digital Contents Society, 23(5), 827-836.  
 
-ExoTen-Glove_A Force-Feedback Haptic Glove Based on Twisted String Actuation System
+Ultraleap Co. Ltd. (2019). What is Haptic Feedback?, https:// www.ultraleap.com/company/news/blog/what-is-haptic-feedback/,  
 
-LSTM을 이용한 표면 근전도 분석을 통한 서로 다른 손가락 움직임 분류 정확도 향상
+Grigore C. Burdea. (1999). Haptic Feedback for Virtual Reality, Proceedings of International Workshop on Virtual prototyping, Laval, France, pp. 87-96, May.  
 
-근전도를 활용한 인체 수관절 운동 분석
+Cho Young Don. (2002). Types and Characteristics of Piezoelectric Sensors. Instrumentation Technology, April 2002.  
 
-손가락 굴곡과 신전 힘 생성에서 뇌성마비 환자의 다중 손가락 시너지
+Son Jung Woo (2012). Haptic actuators in mobile devices. Journal of KSNVE, 22(6), pp. 25-30..  
 
-Geršak, Gregor, Huimin Lu, and Jože Guna. (2018). Effect of VR Technology Matureness on VR Sickness. Multimedia Tools and Applications 79.21-22 (2018): 14491-4507. Web. 
+HappyFaceFriend. (2021). TetrisWithHand, github, https:// github.com/HappyFaceFriend/TetrisWithHand.  
 
-Guruswamy, V. L., Jochen Lang, and Won-Sook Lee. (2011). IIR Filter Models of Haptic Vibration Textures., IEEE Transactions on Instrumentation and Measurement 60.1 (2011): 93- 103. Web. 
+Park, S.-H., Hong, B.-K., Kim, J.-K., Hong, E.-P., & Mun, M.-S. (2011, August 1). Development of the Myoelectric Hand with a 2 DOF Auto Wrist Module. Journal of Institute of Control, Robotics and Systems. Institute of Control, Robotics and Systems. https://doi.org/10.5302/j.icros.2011.17.8.824 
 
-Hae-Chan Na, Yu-Jin Lee, Su Young Kim, Yoon Sang Kim. (2022). A Study on Metaverse Education Platform: cases analysis and suggestion. Journal of Digital Contents Society, 23(5), 827-836. 
+Ma, Z., & Ben-Tzvi, P. (2015). Design and Optimization of a Five-Finger Haptic Glove Mechanism. Journal of Mechanisms and Robotics, 7, 041008. 
 
-Ultraleap Co. Ltd. (2019). What is Haptic Feedback?, https:// www.ultraleap.com/company/news/blog/what-is-haptic-feedback/, 
+ M. Hosseini, A. Sengül, Y. Pane, J. De Schutter and H. Bruyninck(2018). ExoTen-Glove: A Force-Feedback Haptic Glove Based on Twisted String Actuation System. 27th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), 2018, pp. 320-327, doi: 10.1109/ROMAN.2018.8525637. 
 
-Grigore C. Burdea. (1999). Haptic Feedback for Virtual Reality, Proceedings of International Workshop on Virtual prototyping, Laval, France, pp. 87-96, May. 
+Pinhas Ben-Tzvi, Senior Member, IEEE, and Zhou Ma, Student Member, IEEE. (2015). Sensing and Force-Feedback Exoskeleton (SAFE) Robotic Glove. IEEE Transactions on Neural Systems and Rehabilitation Engineering, Vol. 23, No. 6.  
 
-Cho Young Don. (2002). Types and Characteristics of Piezoelectric Sensors. Instrumentation Technology, April 2002. 
+Zhe Cao, Student Member, IEEE, Gines Hidalgo, Student Member, IEEE, Tomas Simon, Shih-En Wei, and Yaser Sheikh. (2018). OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields, arXiv:1812.08008, Web  
 
-Son Jung Woo (2012). Haptic actuators in mobile devices. Journal of KSNVE, 22(6), pp. 25-30.. 
+Chen, Tianlang, Chen Fang, Xiaohui Shen, Yiheng Zhu, Zhili Chen, and Jiebo Luo. (2022). Anatomy-Aware 3D Human Pose Estimation With Bone-Based Pose Decomposition. IEEE Transactions on Circuits and Systems for Video Technology 32.1 (2022): 198-209. Web.  
 
-HappyFaceFriend. (2021). TetrisWithHand, github, https:// github.com/HappyFaceFriend/TetrisWithHand. 
+Google LLC. (2020). Mediapipe, https://google.github.io/mediapipe/. Google LLC. (2019). Tensorflow Lite, https://www.tensorflow.org/lite.  
 
-Pinhas Ben-Tzvi, Senior Member, IEEE, and Zhou Ma, Student Member, IEEE. (2015). Sensing and Force-Feedback Exoskeleton (SAFE) Robotic Glove. IEEE Transactions on Neural Systems and Rehabilitation Engineering, Vol. 23, No. 6. 
+S. Juhn, C. Jamais, and P. Jerry. (2007). A Cross-Industry Public Foresight Project, Acceleration Studies Foundation.  
 
-Zhe Cao, Student Member, IEEE, Gines Hidalgo, Student Member, IEEE, Tomas Simon, Shih-En Wei, and Yaser Sheikh. (2018). OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields, arXiv:1812.08008, Web 
+Kim, Koun (2019). Effect of Virtual Reality Rehabilitation Program with RAPAEL Smart Glove on Stroke Patient's Upper Extremity Functions and Activities of Daily Living, Journal of The Korean Society of Integrative Medicine, Volume 7, Issue 2, Pages. 69-76.  
 
-Chen, Tianlang, Chen Fang, Xiaohui Shen, Yiheng Zhu, Zhili Chen, and Jiebo Luo. (2022). Anatomy-Aware 3D Human Pose Estimation With Bone-Based Pose Decomposition. IEEE Transactions on Circuits and Systems for Video Technology 32.1 (2022): 198-209. Web. 
+Leeanne Carey, Richard Macdonell, Thomas A Matyas. (2011). SENSe: Study of the Effectiveness of Neurorehabilitation on Sensation: a randomized controlled trial, Neurorehabil Neural Repair. 2011 May; 25(4), 304-313.  
 
-Google LLC. (2020). Mediapipe, https://google.github.io/mediapipe/. Google LLC. (2019). Tensorflow Lite, https://www.tensorflow.org/lite. 
+Kim Ji Hoon (2018). Influence of Upper extremity function, Activities of Daily Living, Therapeutic Flow and Quality of Life in Stroke patients. Journal of Digital Convergence. Vol. 16. No. 12, pp. 417-425. 
 
-S. Juhn, C. Jamais, and P. Jerry. (2007). A Cross-Industry Public Foresight Project, Acceleration Studies Foundation. 
+신재영, 김성욱, 이윤성, 이형탁 and 황한정. (2019). LSTM을 이용한 표면 근전도 분석을 통한 서로 다른 손가락 움직임 분류 정확도 향상. 의공학회지, 40(6), 242-249. 
 
-Kim, Koun (2019). Effect of Virtual Reality Rehabilitation Program with RAPAEL Smart Glove on Stroke Patient's Upper Extremity Functions and Activities of Daily Living, Journal of The Korean Society of Integrative Medicine, Volume 7, Issue 2, Pages. 69-76. 
-
-Leeanne Carey, Richard Macdonell, Thomas A Matyas. (2011). SENSe: Study of the Effectiveness of Neurorehabilitation on Sensation: a randomized controlled trial, Neurorehabil Neural Repair. 2011 May; 25(4), 304-313. 
-
-Kim Ji Hoon (2018). Influence of Upper extremity function, Activities of Daily Living, Therapeutic Flow and Quality of Life in Stroke patients. Journal of Digital Convergence. Vol. 16. No. 12, pp. 417-425.
+ 공주(2019). 손가락 굴곡과 신전 힘 생성에서 뇌성마비 환자의 다중 손가락 시너지. 국내석사학위논문 서울대학교 대학원, 2019. 서울 
